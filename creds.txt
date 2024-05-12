@@ -1,2 +1,0 @@
-username = lohith101
-password = fej
